@@ -1,0 +1,14 @@
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.exe
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.deps.json
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.runtimeconfig.json
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.dll
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\bin\Debug\net8.0\Proxy Pattern.pdb
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.AssemblyInfoInputs.cache
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.AssemblyInfo.cs
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.dll
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\refint\Proxy Pattern.dll
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.pdb
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\Proxy Pattern.genruntimeconfig.cache
+C:\Users\ZakusiloDR\source\repos\Proxy Pattern\obj\Debug\net8.0\ref\Proxy Pattern.dll
